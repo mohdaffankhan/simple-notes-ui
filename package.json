@@ -1,5 +1,5 @@
 {
-  "name": "template-repo",
+  "name": "simple-notes-ui",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
