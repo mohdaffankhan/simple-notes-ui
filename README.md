@@ -6,7 +6,11 @@ This project is part of my [ChaiCode Mobile Dev Cohort 1 Archive](https://github
 
 ## Screenshots
 
-![Simple Notes UI](./assets/images/screenshots/screenshot.png)
+### Notes Screen
+![Simple Notes UI](./assets/images/screenshots/notes.png)
+
+### Editor Screen
+![Simple Notes UI](./assets/images/screenshots/editor.png)
 
 ## Tech Stack
 
